@@ -2,6 +2,7 @@ latihan resolusi
 - latihan untuk pkl
   - bisa php
   - bisa laravel
+  - view
 - fundamental
 - mendapat pengalaman di pkl
 - membuat web

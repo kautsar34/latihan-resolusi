@@ -4,5 +4,6 @@ latihan resolusi
   - bisa laravel
   - view
 - fundamental
+- angular
 - mendapat pengalaman di pkl
 - membuat web

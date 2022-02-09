@@ -1,4 +1,6 @@
 latihan resolusi
 - latihan untuk pkl
+  - bisa php
+  - bisa laravel
 - mendapat pengalaman di pkl
 - membuat web

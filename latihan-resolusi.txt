@@ -1,4 +1,4 @@
 latihan resolusi
 - latihan untuk pkl
 - mendapat pengalaman di pkl
-- dapat membuat aplikasi sendiri
+- membuat web

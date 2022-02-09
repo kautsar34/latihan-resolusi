@@ -3,5 +3,6 @@ latihan resolusi
   - bisa php
   - bisa laravel
 - fundamental
+- angular
 - mendapat pengalaman di pkl
 - membuat web
